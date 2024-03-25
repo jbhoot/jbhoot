@@ -1,4 +1,8 @@
-### Hi there 👋
+ I design and implement software.
+
+I am a Southpaw who owns a pair of left-handed scissors. Southpaws, you should try one. They're liberating!
+
+My last name Bhoot means Ghost in some Indian languages. 
 
 <!--
 **jyssh/jyssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
