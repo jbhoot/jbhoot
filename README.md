@@ -1,6 +1,6 @@
  I design and implement software.
 
-I am a Southpaw who owns a pair of left-handed scissors. Southpaws, you should try one. They're liberating!
+I am a Southpaw who owns a pair of left-handed scissors.
 
 My last name Bhoot means Ghost in some Indian languages. 
 
