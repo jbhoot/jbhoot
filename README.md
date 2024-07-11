@@ -1,2 +1,2 @@
-• Southpaw who owns a pair of left-handed scissors
-• My friends call me just *Bhoot* because Bhoot means Ghost.
+- Southpaw who owns a pair of left-handed scissors
+- My friends call me just *Bhoot* because Bhoot means Ghost.
