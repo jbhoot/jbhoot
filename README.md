@@ -6,4 +6,4 @@ I am a Southpaw who owns a pair of left-handed scissors.
 
 My friends call me just *Bhoot* because Bhoot means Ghost.
 
-Find me on: [Website](https://bhoot.dev) • [Mastodon](https://functional.cafe/@bhoot) • [Lobsters](https://lobste.rs/~bhoot) • [LinkedIn](https://linkedin.com/in/jbhoot)
+[Website](https://bhoot.dev) • [Mastodon](https://functional.cafe/@bhoot) • [Lobsters](https://lobste.rs/~bhoot) • [LinkedIn](https://linkedin.com/in/jbhoot)
