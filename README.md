@@ -6,7 +6,14 @@ I am a Southpaw who owns a pair of left-handed scissors.
 
 My friends call me just *Bhoot* because Bhoot means Ghost.
 
-[Website](https://bhoot.dev) • [Mastodon](https://functional.cafe/@bhoot) • [Lobsters](https://lobste.rs/~bhoot) • [LinkedIn](https://linkedin.com/in/jbhoot)
+## Online presence
+
+- [Website](https://bhoot.dev)
+- [Mastodon](https://functional.cafe/@bhoot)
+- [Lobsters](https://lobste.rs/~bhoot)
+- [LinkedIn](https://linkedin.com/in/jbhoot)
+
+## Recent GitHub activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#11](https://github.com/muhokama/ring/pull/11) in [muhokama/ring](https://github.com/muhokama/ring)
