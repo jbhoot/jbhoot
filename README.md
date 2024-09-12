@@ -16,9 +16,9 @@ My friends call me just *Bhoot* because Bhoot means Ghost.
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#73](https://github.com/PataphysicalSociety/soupault/issues/73) in [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault)
-2. 🗣 Commented on [#11](https://github.com/muhokama/ring/pull/11#issuecomment-2340271841) in [muhokama/ring](https://github.com/muhokama/ring)
-3. 🗣 Commented on [#11](https://github.com/muhokama/ring/pull/11#issuecomment-2339854836) in [muhokama/ring](https://github.com/muhokama/ring)
-4. 🗣 Commented on [#11](https://github.com/muhokama/ring/pull/11#issuecomment-2334243212) in [muhokama/ring](https://github.com/muhokama/ring)
-5. 💪 Opened PR [#11](https://github.com/muhokama/ring/pull/11) in [muhokama/ring](https://github.com/muhokama/ring)
+1. 🗣 Commented on [#73](https://github.com/PataphysicalSociety/soupault/issues/73#issuecomment-2345877832) in [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault)
+2. ❗ Opened issue [#73](https://github.com/PataphysicalSociety/soupault/issues/73) in [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault)
+3. 🗣 Commented on [#11](https://github.com/muhokama/ring/pull/11#issuecomment-2340271841) in [muhokama/ring](https://github.com/muhokama/ring)
+4. 🗣 Commented on [#11](https://github.com/muhokama/ring/pull/11#issuecomment-2339854836) in [muhokama/ring](https://github.com/muhokama/ring)
+5. 🗣 Commented on [#11](https://github.com/muhokama/ring/pull/11#issuecomment-2334243212) in [muhokama/ring](https://github.com/muhokama/ring)
 <!--END_SECTION:activity-->
