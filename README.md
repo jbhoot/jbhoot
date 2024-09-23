@@ -11,9 +11,9 @@ Find me on: [Website](https://bhoot.dev) • [Mastodon](https://functional.cafe/
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367251091) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
-2. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367210789) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
-3. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367180906) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
-4. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367160205) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
-5. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367154129) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
+1. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367252946) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
+2. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367251091) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
+3. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367210789) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
+4. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367180906) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
+5. 🗣 Commented on [#339](https://github.com/ki-editor/ki-editor/issues/339#issuecomment-2367160205) in [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
 <!--END_SECTION:activity-->
