@@ -11,9 +11,9 @@ Find me on: [Website](https://bhoot.dev) • [Mastodon](https://functional.cafe/
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/RoyalSloth/SlothTracker/issues/6#issuecomment-2591663677) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
-2. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
-3. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
-4. 🗣 Commented on [#214](https://github.com/ericwbailey/a11y-webring.club/pull/214#issuecomment-2566121992) in [ericwbailey/a11y-webring.club](https://github.com/ericwbailey/a11y-webring.club)
-5. 🗣 Commented on [#318](https://github.com/re-rxjs/react-rxjs/issues/318#issuecomment-2544726388) in [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs)
+1. 💪 Opened PR [#16](https://github.com/muhokama/ring/pull/16) in [muhokama/ring](https://github.com/muhokama/ring)
+2. 🗣 Commented on [#6](https://github.com/RoyalSloth/SlothTracker/issues/6#issuecomment-2591663677) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
+3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
+4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
+5. 🗣 Commented on [#214](https://github.com/ericwbailey/a11y-webring.club/pull/214#issuecomment-2566121992) in [ericwbailey/a11y-webring.club](https://github.com/ericwbailey/a11y-webring.club)
 <!--END_SECTION:activity-->
