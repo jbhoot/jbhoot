@@ -11,7 +11,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/muhokama/ring/pull/16) in [muhokama/ring](https://github.com/muhokama/ring)
+1. 💪 Opened PR [#343](https://github.com/TanStack/tanstack.com/pull/343) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 2. 🗣 Commented on [#6](https://github.com/RoyalSloth/SlothTracker/issues/6#issuecomment-2591663677) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
