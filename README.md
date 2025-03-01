@@ -11,8 +11,8 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#343](https://github.com/TanStack/tanstack.com/pull/343) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
-2. 🗣 Commented on [#6](https://github.com/RoyalSloth/SlothTracker/issues/6#issuecomment-2591663677) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
+1. 🗣 Commented on [#782](https://github.com/arp242/goatcounter/issues/782#issuecomment-2691358034) in [arp242/goatcounter](https://github.com/arp242/goatcounter)
+2. 💪 Opened PR [#343](https://github.com/TanStack/tanstack.com/pull/343) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 5. 🗣 Commented on [#214](https://github.com/ericwbailey/a11y-webring.club/pull/214#issuecomment-2566121992) in [ericwbailey/a11y-webring.club](https://github.com/ericwbailey/a11y-webring.club)
