@@ -11,7 +11,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#782](https://github.com/arp242/goatcounter/issues/782#issuecomment-2691358034) in [arp242/goatcounter](https://github.com/arp242/goatcounter)
+1. 🗣 Commented on [#63](https://github.com/PataphysicalSociety/soupault/issues/63#issuecomment-2795741267) in [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault)
 2. 💪 Opened PR [#343](https://github.com/TanStack/tanstack.com/pull/343) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
