@@ -1,6 +1,6 @@
 Hi there!
 
-I have a partner and a dog and a cat...or the cat has me and my partner and the dog.
+I live with my partner in a hilly city. A cat and a dog live in our house. Or we live in theirs. The ownership is becoming murky.
 
 I am a Southpaw who owns a pair of left-handed scissors.
 
