@@ -8,6 +8,11 @@ My friends call me just *Bhoot* because Bhoot means Ghost.
 
 Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot) • [Bluesky](https://bsky.app/profile/bhoot.dev) • [LinkedIn](https://linkedin.com/in/jbhoot)
 
+## Recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
