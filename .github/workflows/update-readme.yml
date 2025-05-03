@@ -11,12 +11,12 @@ jobs:
     name: Update this repo's README with recent activity
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.4.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: "sync with latest commit"
-        run: git pull
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://bhoot.dev/feed.xml"
           max_post_count: 10
+      - name: "sync with latest commit"
+        run: git pull
+      - uses: jamesgeorge007/github-activity-readme@v0.4.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
