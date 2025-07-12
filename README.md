@@ -11,15 +11,15 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;code&gt;git stage&lt;/code&gt; over &lt;code&gt;git add&lt;/code&gt;](https://bhoot.dev/2025/git-stage-over-git-add)
-- [On Stephen Baxter&#39;s Manifold books](https://bhoot.dev/2025/stephen-baxter-manifold)
-- [Tip for my future self: If Emacs throws an arcane error — &lt;code&gt;project--read-file-name: Wrong type argument: stringp, nil&lt;/code&gt; — while trying to find a file in a git project &lpar;&lt;code&gt;C-x p f&lt;/code&gt;&rpar;, then one likely reason is that the git project is empty.](https://bhoot.dev/2025/emacs-fit-at-empty-git-project)
+- [<code>git stage</code> over <code>git add</code>](https://bhoot.dev/2025/git-stage-over-git-add)
+- [On Stephen Baxter's Manifold books](https://bhoot.dev/2025/stephen-baxter-manifold)
+- [Tip for my future self: If Emacs throws an arcane error — <code>project--read-file-name: Wrong type argument: stringp, nil</code> — while trying to find a file in a git project (<code>C-x p f</code>), then one likely reason is that the git project is empty.](https://bhoot.dev/2025/emacs-fit-at-empty-git-project)
 - [How I configured OS-specific fonts in Emacs](https://bhoot.dev/2025/emacs-font-per-os)
 - [A case of unsoundness in TypeScript](https://bhoot.dev/2025/typescript-usecase-over-soundness)
-- [Understanding various syntaxes to annotate a function&#39;s type in TypeScript](https://bhoot.dev/2025/typescript-function-type-syntaxes)
+- [Understanding various syntaxes to annotate a function's type in TypeScript](https://bhoot.dev/2025/typescript-function-type-syntaxes)
 - [JavaScript function declaration v/s arrow function in a browser console](https://bhoot.dev/2025/function-vs-arrow)
-- [Someone&#39;s high hopes- to dash or not to dash](https://bhoot.dev/2025/high-hopes-to-dash-or-not)
-- [Copying &lt;em&gt;all&lt;/em&gt; files of a directory, including hidden ones, with &lt;code&gt;cp&lt;/code&gt;](https://bhoot.dev/2025/cp-dot-copies-everything)
+- [Someone's high hopes- to dash or not to dash](https://bhoot.dev/2025/high-hopes-to-dash-or-not)
+- [Copying <em>all</em> files of a directory, including hidden ones, with <code>cp</code>](https://bhoot.dev/2025/cp-dot-copies-everything)
 - [Proximity of an error in static and dynamic languages](https://bhoot.dev/2025/proximity-of-an-error)<!-- BLOG-POST-LIST:END -->
 
 ## Recent GitHub activity
