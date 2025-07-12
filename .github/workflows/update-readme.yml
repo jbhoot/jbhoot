@@ -16,6 +16,7 @@ jobs:
           feed_list: "https://bhoot.dev/feed.xml"
           template: "$newline- [$title](https://bhoot.dev$url)"
           max_post_count: 10
+          disable_html_encoding: true
       - name: "sync with latest commit"
         run: git pull
       - uses: jamesgeorge007/github-activity-readme@v0.4.3
