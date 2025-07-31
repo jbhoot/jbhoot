@@ -25,8 +25,8 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/ocaml-community/zed/pull/61) in [ocaml-community/zed](https://github.com/ocaml-community/zed)
-2. 🗣 Commented on [#63](https://github.com/PataphysicalSociety/soupault/issues/63#issuecomment-2795741267) in [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault)
+1. 🗣 Commented on [#20](https://github.com/jbhoot/enforce-browser-fonts/issues/20#issuecomment-3138287231) in [jbhoot/enforce-browser-fonts](https://github.com/jbhoot/enforce-browser-fonts)
+2. 💪 Opened PR [#61](https://github.com/ocaml-community/zed/pull/61) in [ocaml-community/zed](https://github.com/ocaml-community/zed)
 3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 5. 🗣 Commented on [#214](https://github.com/ericwbailey/a11y-webring.club/pull/214#issuecomment-2566121992) in [ericwbailey/a11y-webring.club](https://github.com/ericwbailey/a11y-webring.club)
