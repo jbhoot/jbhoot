@@ -25,7 +25,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/jbhoot/enforce-browser-fonts/issues/20#issuecomment-3138287231) in [jbhoot/enforce-browser-fonts](https://github.com/jbhoot/enforce-browser-fonts)
+1. ❗ Opened issue [#138](https://github.com/flathub/com.jetbrains.WebStorm/issues/138) in [flathub/com.jetbrains.WebStorm](https://github.com/flathub/com.jetbrains.WebStorm)
 2. 💪 Opened PR [#61](https://github.com/ocaml-community/zed/pull/61) in [ocaml-community/zed](https://github.com/ocaml-community/zed)
 3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
